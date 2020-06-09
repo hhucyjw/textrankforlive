@@ -12,7 +12,7 @@
 
 3.“直播带货行业热点感知.py”为项目实现的python代码
 
-4.“sgns.financial.char”为预处理word2vec词向量文件
+4.“sgns.financial.char”为预处理word2vec词向量文件（https://github.com/Embedding/Chinese-Word-Vectors）
 
 
 
